@@ -1,0 +1,10 @@
+/Users/marioanorganism/Documents/Hacking/dotnetclasses/bin/Debug/netcoreapp2.0/dotnetclasses.deps.json
+/Users/marioanorganism/Documents/Hacking/dotnetclasses/bin/Debug/netcoreapp2.0/dotnetclasses.runtimeconfig.json
+/Users/marioanorganism/Documents/Hacking/dotnetclasses/bin/Debug/netcoreapp2.0/dotnetclasses.runtimeconfig.dev.json
+/Users/marioanorganism/Documents/Hacking/dotnetclasses/bin/Debug/netcoreapp2.0/dotnetclasses.dll
+/Users/marioanorganism/Documents/Hacking/dotnetclasses/bin/Debug/netcoreapp2.0/dotnetclasses.pdb
+/Users/marioanorganism/Documents/Hacking/dotnetclasses/obj/Debug/netcoreapp2.0/dotnetclasses.csproj.CoreCompileInputs.cache
+/Users/marioanorganism/Documents/Hacking/dotnetclasses/obj/Debug/netcoreapp2.0/dotnetclasses.AssemblyInfoInputs.cache
+/Users/marioanorganism/Documents/Hacking/dotnetclasses/obj/Debug/netcoreapp2.0/dotnetclasses.AssemblyInfo.cs
+/Users/marioanorganism/Documents/Hacking/dotnetclasses/obj/Debug/netcoreapp2.0/dotnetclasses.dll
+/Users/marioanorganism/Documents/Hacking/dotnetclasses/obj/Debug/netcoreapp2.0/dotnetclasses.pdb
